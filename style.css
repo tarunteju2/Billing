@@ -1,0 +1,31 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.subtotalcontainer{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(55, 89, 89);
+    padding: 60px 40px;
+    border-radius: 30px;
+}
+.container2{
+    
+    margin-top: 30px;
+    display: flex;
+    padding: 60px 10px;
+    justify-content: center;
+    background-color: rgb(45, 143, 100);
+    border-radius: 30px;
+}
+body{
+    background-color:mediumaquamarine ;
+}
+button{
+    background-color: wheat;
+    display: flex;
+    margin: 40px 40px;
+    padding: 10px 30px;
+    justify-content: center;
+    border-radius: 20px;
+}
